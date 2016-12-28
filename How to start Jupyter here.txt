@@ -1,6 +1,0 @@
-Open an Anaconda bash shell and then type:
-jupyter notebook --notebook-dir=c:/workspace/Twitter-Analysis/jupyter_notebooks
-Input directory is C:/workspace/jupyter/input
-
-In general the command to use would be (edit this to point to your working directroy:
-jupyter notebook --notebook-dir=/absolute/path/to/notebook/directory
