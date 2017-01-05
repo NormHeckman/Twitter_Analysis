@@ -2,7 +2,7 @@
 
 These python notebooks create word clouds for twitter tweet collections.
 
-In order to run these juypiter notebooks locally, download the files to your workstation. Place the uncompressed files in a known location. A full installation of Anaconda on that workstation is recommended.
+In order to run these juypiter notebooks locally, download the files to your workstation. Place the uncompressed files in a known location. A full installation of Anaconda Python on that workstation is recommended.
 
 Then open an Anaconda bash shell.
 You will need to install the wordcloud package with this command:
